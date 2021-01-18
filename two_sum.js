@@ -1,9 +1,9 @@
 /*
  * @Title: 两数之和
- * @Descripttion: 利用 哈希Map 实现
+ * @Descripttion: https://leetcode-cn.com/problems/two-sum/
  * @Author: shaojihao
  * @Date: 2021-01-15 15:18:28
- * @LastEditTime: 2021-01-15 15:40:54
+ * @LastEditTime: 2021-01-18 16:57:47
  */
 
 /**
@@ -18,13 +18,13 @@
  */
 
 function two_num(list, target) {
-  let mapList = new Map(); // 创建哈希Map
+  let mapList = new Map(); // 创建哈希 Map
   for (let i = 0; i < list.length; ++i) {
     if (mapList.has(target - list[i])) // 如果哈希表里面有当前差值，直接返回当前键对应的值
       return [mapList.get(target - list[i]), i];
-    mapList.set(list[i], i); // 将数组每项的值作为哈希Map的键，对应角标作为值
+    mapList.set(list[i], i); // 将数组每项的值作为哈希 Map 的键，对应角标作为值
   }
-  return []; // 如果list问空数组返回空数组
+  return []; // 如果 list 为空数组返回空数组
 }
 
 /**
@@ -33,4 +33,10 @@ function two_num(list, target) {
  * 使用哈希表，可以将寻找 target - x 的时间复杂度降低到从 O(N)O(N)O(N) 降低到 O(1)O(1)O(1)。
  * 这样我们创建一个哈希表，对于每一个 x，我们首先查询哈希表中是否存在 target - x，
  * 然后将 x 插入到哈希表中，即可保证不会让 x 和自己匹配。
+ */
+
+/**
+ * 复杂度分析：
+ * 时间复杂度：O(N)，其中 N 是数组中的元素数量。对于每一个元素 X，我们可以O(1)的寻找 target - x
+ * 空间复杂度：O(N)，其中 N 是数组中的元素数量。主要为哈希表的开销
  */

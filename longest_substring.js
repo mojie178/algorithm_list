@@ -1,9 +1,9 @@
 /*
  * @Title: 无重复字符的最长子串
- * @Descripttion: 
+ * @Descripttion: https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
  * @Author: shaojihao
  * @Date: 2021-01-15 15:36:33
- * @LastEditTime: 2021-01-15 15:53:32
+ * @LastEditTime: 2021-01-18 16:58:10
  */
 
 /**
@@ -35,4 +35,10 @@ function longest_substring(str) {
  * 这里的原因在于，假设我们选择字符串中的第 k 个字符作为起始位置，并且得到了不包含重复字符的最长子串的结束位置为 rk​。
  * 那么当我们选择第 k+1 个字符作为起始位置时，首先从 k+1 到 rk​ 的字符显然是不重复的，并且由于少了原本的第 k 个字符，
  * 我们可以尝试继续增大 rk​，直到右侧出现了重复字符为止。
+ */
+
+/**
+ * 复杂度分析：
+ * 时间复杂度：O(N)，其中 N 是字符串的长度。左指针和右指针分别会遍历整个字符串一次
+ * 空间复杂度：O(|∑|)，其中 ∑ 表示字符集（即字符串中可以出现的字符），|∑| 表示字符集的大小。
  */
