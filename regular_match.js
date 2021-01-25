@@ -3,7 +3,7 @@
  * @Descripttion: https://leetcode-cn.com/problems/regular-expression-matching/
  * @Author: shaojihao
  * @Date: 2021-01-22 14:44:23
- * @LastEditTime: 2021-01-22 16:45:07
+ * @LastEditTime: 2021-01-25 09:59:05
  */
 
 /**
@@ -48,3 +48,16 @@ function matches(str, regx, i, j) {
   if (regx.charAt(j - 1) == '.') return true; // 如果 regx[j - 1] 为 . ，匹配任何 str[i - 1]，默认 true
   return str.charAt(i - 1) == regx.charAt(j - 1); // 否则返回 dp[i][j] 的上个字符 dp[i - 1][j - 1] 的状态
 }
+
+/**
+ * 解题思路：双指针的方法。
+ * · 求出当前双指针对应的容器的容量
+ * · 对应数字较小的那个指针以后不可能作为容器的边界了，将其丢弃，并移动对应的指针
+ */
+
+/**
+ * 复杂度分析：
+ * 时间复杂度：O(MN)，其中 M 和 N 分别是字符串 str 和 regx 的长度。
+ * 我们需要计算出所有的状态，并且每个状态在进行转移时的时间复杂度为 O(1)
+ * 空间复杂度：O(MN)，即为存储所有状态使用的空间
+ */
