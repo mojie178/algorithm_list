@@ -3,19 +3,19 @@
  * @Descripttion: https://leetcode-cn.com/problems/regular-expression-matching/
  * @Author: shaojihao
  * @Date: 2021-01-22 14:44:23
- * @LastEditTime: 2021-01-25 09:59:05
+ * @LastEditTime: 2021-01-25 10:48:29
  */
 
 /**
  * @name: regular_match
- * @qus: 给你一个字符串 s 和一个字符规律 p，请你来实现一个支持 '.' 和 '*' 的正则表达式匹配。
+ * @question: 给你一个字符串 s 和一个字符规律 p，请你来实现一个支持 '.' 和 '*' 的正则表达式匹配。
  * 所谓匹配，是要涵盖 整个 字符串 s 的，而不是部分字符串。
  * @param {string} str
  * @param {string} regx
  * @return {boolean}
  */
 function regular_match(str, regx) {
-  let strLen = str.length, regxLen = regx.length; // 获取 str，regx 的字符串长度
+  const strLen = str.length, regxLen = regx.length; // 获取 str，regx 的字符串长度
   let dp = new Array(strLen + 1).fill('').map(() => new Array(regxLen).fill(false)); // 创建二维数组来记录
   dp[0][0] = true; // 因为 str[-1]，regx[-1] 都不存在，所以默认相等返回 true
   // 能够真实反馈 dp[i][j] 的匹配情况，其实是从 [1, 1] 开始。[0, *] 和 [*, 0] 只是作为辅助作用

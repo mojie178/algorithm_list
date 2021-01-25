@@ -3,17 +3,17 @@
  * @Descripttion: https://leetcode-cn.com/problems/longest-palindromic-substring/
  * @Author: shaojihao
  * @Date: 2021-01-18 13:57:53
- * @LastEditTime: 2021-01-19 09:23:48
+ * @LastEditTime: 2021-01-25 10:48:18
  */
 
 /**
  * @name: longest_substring
- * @qus: 给你一个字符串 s，找到 s 中最长的回文子串。(正序逆序相同的字符串是回文)
+ * @question: 给你一个字符串 s，找到 s 中最长的回文子串。(正序逆序相同的字符串是回文)
  * @param {string} s
  * @return {string}
  */
 function longest_substring(s) {
-  let len = s.length; // 获取字符串长度
+  const len = s.length; // 获取字符串长度
   let dp = new Array(len).fill('').map(() => new Array(len).fill(false)); // 创建二维数组来记录
   /**
    * let dp = new Array(len).fill(new Array(len).fill(false));
@@ -73,7 +73,7 @@ function longest_substring(s) {
  * 多所有的长度求出最大值，即可。
  */
 function longest_substring_two(s) {
-  let len = s.length; // 获取字符串长度
+  const len = s.length; // 获取字符串长度
   if (len < 1) return ''; // 长度为小于 1，返回自身
   let start = 0, end = 0; // 定义最长回文子串开始下标和结尾下标
   for (let i = 0; i < len; ++i) { // 遍历所有“回文中心点”

@@ -8,7 +8,7 @@
 
 /**
  * @name: integer_to_roman
- * @qus: 罗马数字包含以下七种字符： I， V， X， L，C，D 和 M，将整数转化为罗马数字
+ * @question: 罗马数字包含以下七种字符： I， V， X， L，C，D 和 M，将整数转化为罗马数字
  * 字符    数值
  * I       1
  * V       5
