@@ -3,7 +3,7 @@
  * @Descripttion: 
  * @Author: shaojihao
  * @Date: 2021-01-15 15:14:35
- * @LastEditTime: 2021-01-25 11:31:44
+ * @LastEditTime: 2021-01-26 09:39:11
 -->
 # 算法题库
 > 来源：[力扣](https://leetcode-cn.com/problems)
@@ -17,4 +17,5 @@
 7. [most_water.js](most_water.js)：[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)
 8. [integer_to_roman.js](integer_to_roman.js)：[整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/)
 9. [three_sum.js](three_sum.js)：[三数之和](https://leetcode-cn.com/problems/3sum/)
-10. [valid_parentheses.js](valid_parentheses.js)：[有效的括号](https:/https://leetcode-cn.com/problems/valid-parentheses/)
+10. [valid_parentheses.js](valid_parentheses.js)：[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
+11. [remove_element.js](remove_element.js)：[移除元素](https://leetcode-cn.com/problems/remove-element/)
