@@ -1,9 +1,8 @@
 <!--
  * @Title: README.md
- * @Descripttion: 
  * @Author: shaojihao
  * @Date: 2021-01-15 15:14:35
- * @LastEditTime: 2021-01-26 09:39:11
+ * @LastEditTime: 2021-01-26 15:16:21
 -->
 # 算法题库
 > 来源：[力扣](https://leetcode-cn.com/problems)
@@ -19,3 +18,5 @@
 9. [three_sum.js](three_sum.js)：[三数之和](https://leetcode-cn.com/problems/3sum/)
 10. [valid_parentheses.js](valid_parentheses.js)：[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 11. [remove_element.js](remove_element.js)：[移除元素](https://leetcode-cn.com/problems/remove-element/)
+12. [count_and_say.js](count_and_say.js)：[外观数列](https://leetcode-cn.com/problems/count-and-say/)
+13. [rain_water.js](rain_water.js)：[接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)

@@ -3,12 +3,9 @@
  * @Descripttion: https://leetcode-cn.com/problems/integer-to-roman/
  * @Author: shaojihao
  * @Date: 2021-01-25 10:09:39
- * @LastEditTime: 2021-01-25 11:30:05
- */
-
-/**
- * @name: integer_to_roman
- * @question: 罗马数字包含以下七种字符： I， V， X， L，C，D 和 M，将整数转化为罗马数字
+ * @LastEditTime: 2021-01-26 15:19:30
+ * @Question: 
+ * 罗马数字包含以下七种字符： I， V， X， L，C，D 和 M，将整数转化为罗马数字
  * 字符    数值
  * I       1
  * V       5
@@ -17,6 +14,10 @@
  * C       100
  * D       500
  * M       1000
+ */
+
+/**
+ * @name: integer_to_roman
  * @param {number} num
  * @return {string}
  */

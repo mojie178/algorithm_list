@@ -3,13 +3,14 @@
  * @Descripttion: https://leetcode-cn.com/problems/regular-expression-matching/
  * @Author: shaojihao
  * @Date: 2021-01-22 14:44:23
- * @LastEditTime: 2021-01-25 10:48:29
+ * @LastEditTime: 2021-01-26 15:20:09
+ * @Question: 
+ * 给你一个字符串 s 和一个字符规律 p，请你来实现一个支持 '.' 和 '*' 的正则表达式匹配。
+ * 所谓匹配，是要涵盖 整个 字符串 s 的，而不是部分字符串。
  */
 
 /**
  * @name: regular_match
- * @question: 给你一个字符串 s 和一个字符规律 p，请你来实现一个支持 '.' 和 '*' 的正则表达式匹配。
- * 所谓匹配，是要涵盖 整个 字符串 s 的，而不是部分字符串。
  * @param {string} str
  * @param {string} regx
  * @return {boolean}

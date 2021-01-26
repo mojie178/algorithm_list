@@ -3,15 +3,16 @@
  * @Descripttion: https://leetcode-cn.com/problems/valid-parentheses/
  * @Author: shaojihao
  * @Date: 2021-01-25 11:29:13
- * @LastEditTime: 2021-01-25 11:51:08
+ * @LastEditTime: 2021-01-26 15:21:00
+ * @Question: 
+ * 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串 s ，判断字符串是否有效
+ * 有效字符串需满足：
+ * 1、左括号必须用相同类型的右括号闭合
+ * 2、左括号必须以正确的顺序闭合
  */
 
 /**
  * @name: valid_parentheses
- * @question: 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串 s ，判断字符串是否有效
- * 有效字符串需满足：
- * 1、左括号必须用相同类型的右括号闭合
- * 2、左括号必须以正确的顺序闭合
  * @param {str} str
  * @return {boolean}
  */

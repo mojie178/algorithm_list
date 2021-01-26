@@ -3,12 +3,14 @@
  * @Descripttion: https://leetcode-cn.com/problems/3sum/
  * @Author: shaojihao
  * @Date: 2021-01-25 10:41:14
- * @LastEditTime: 2021-01-25 11:14:43
+ * @LastEditTime: 2021-01-26 15:20:38
+ * @Question: 
+ * 给你一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，
+ * 使得 a + b + c = 0 ？请你找出所有和为 0 且不重复的三元组
  */
 
 /**
  * @name: three_sum
- * @question: 给你一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？请你找出所有和为 0 且不重复的三元组
  * @param {number[]} nums
  * @return {*}
  */
