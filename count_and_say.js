@@ -2,8 +2,6 @@
  * @Title: 外观数列
  * @Descripttion: https://leetcode-cn.com/problems/count-and-say/
  * @Author: shaojihao
- * @Date: 2021-01-26 14:07:15
- * @LastEditTime: 2021-01-26 15:21:37
  * @Question: 
  * 给定一个正整数 n ，输出外观数列的第 n 项。
  * “外观数列”是一个整数序列，从数字 1 开始，序列中的每一项都是对前一项的描述。

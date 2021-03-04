@@ -1,8 +1,7 @@
 <!--
  * @Title: README.md
+ * @Descripttion: 
  * @Author: shaojihao
- * @Date: 2021-01-15 15:14:35
- * @LastEditTime: 2021-01-28 09:42:10
 -->
 # 算法题库
 > 来源：[力扣](https://leetcode-cn.com/problems)
@@ -23,3 +22,4 @@
 14. [jump_game.js](jump_game.js)：[跳跃游戏](https://leetcode-cn.com/problems/jump-game-ii/)
 15. [group_anagrams.js](group_anagrams.js)：[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
 16. [edit_distance.js](edit_distance.js)：[编辑距离](https://leetcode-cn.com/problems/edit-distance/)
+17. [longest_increasing_subsequence.js](longest_increasing_subsequence.js)：[最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)

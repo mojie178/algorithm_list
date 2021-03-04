@@ -2,8 +2,6 @@
  * @Title: Z 字形变化
  * @Descripttion: https://leetcode-cn.com/problems/zigzag-conversion/
  * @Author: shaojihao
- * @Date: 2021-01-19 09:17:27
- * @LastEditTime: 2021-01-26 15:30:01
  * @Question: 
  * 将一个给定字符串 s 根据给定的行数 numRows，以从上往下、从左到右进行 Z 字形排列
  * 比如输入字符串为 "PAYPALISHIRING" 行数为 3 时，排列如下：

@@ -2,8 +2,6 @@
  * @Title: 有效的括号
  * @Descripttion: https://leetcode-cn.com/problems/valid-parentheses/
  * @Author: shaojihao
- * @Date: 2021-01-25 11:29:13
- * @LastEditTime: 2021-01-26 15:21:00
  * @Question: 
  * 给定一个只包括 '('，')'，'{'，'}'，'['，']' 的字符串 s ，判断字符串是否有效
  * 有效字符串需满足：

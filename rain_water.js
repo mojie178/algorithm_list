@@ -2,8 +2,6 @@
  * @Title: 接雨水
  * @Descripttion: https://leetcode-cn.com/problems/trapping-rain-water/
  * @Author: shaojihao
- * @Date: 2021-01-26 15:15:59
- * @LastEditTime: 2021-01-27 11:39:25
  * @Question: 
  * 给定 n 个非负整数表示每个宽度为 1 的柱子的高度图，计算按此排列的柱子，下雨之后能接多少雨水
  * 例：

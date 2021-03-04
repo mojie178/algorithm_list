@@ -2,8 +2,6 @@
  * @Title: 最长回文子串
  * @Descripttion: https://leetcode-cn.com/problems/longest-palindromic-substring/
  * @Author: shaojihao
- * @Date: 2021-01-18 13:57:53
- * @LastEditTime: 2021-01-26 15:21:27
  * @Question: 
  * 给你一个字符串 s，找到 s 中最长的回文子串。(正序逆序相同的字符串是回文)
  */

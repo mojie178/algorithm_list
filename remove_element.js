@@ -2,8 +2,6 @@
  * @Title: 移除元素
  * @Descripttion: https://leetcode-cn.com/problems/remove-element/
  * @Author: shaojihao
- * @Date: 2021-01-26 09:09:00
- * @LastEditTime: 2021-01-26 15:21:11
  * @Question: 
  * 给你一个数组 nums 和一个值 val，你需要 原地 移除所有数值等于 val 的元素，并返回移除后数组的新长度。
  * 不要使用额外的数组空间，你必须仅使用 O(1) 额外空间并原地修改输入数组。

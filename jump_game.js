@@ -2,9 +2,8 @@
  * @Title: 跳跃游戏
  * @Descripttion: https://leetcode-cn.com/problems/jump-game-ii/
  * @Author: shaojihao
- * @Date: 2021-01-27 13:53:47
- * @LastEditTime: 2021-01-27 14:55:08
- * @Question: 给定一个非负整数数组，最初位于数组的第一个位置。
+ * @Question: 
+ * 给定一个非负整数数组，最初位于数组的第一个位置。
  * 数组中的每个元素代表在该位置可以跳跃的最大长度
  * 目标是使用最小的跳跃次数到达数组的最后一个位置
  */
