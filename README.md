@@ -23,3 +23,4 @@
 15. [group_anagrams.js](group_anagrams.js)：[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
 16. [edit_distance.js](edit_distance.js)：[编辑距离](https://leetcode-cn.com/problems/edit-distance/)
 17. [longest_increasing_subsequence.js](longest_increasing_subsequence.js)：[最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+18. [remove_duplicates.js](remove_duplicates.js)：[删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
