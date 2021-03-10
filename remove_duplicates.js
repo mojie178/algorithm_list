@@ -1,7 +1,6 @@
 /**
  * @Title: 删除字符串中的所有相邻重复项
  * @Descripttion: https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/
- * @Author: shaojihao
  * @Question: 
  * 给出由小写字母组成的字符串 str，重复项删除操作会选择两个相邻且相同的字母，并删除他们。
  * 在 str 上反复执行重复项删除操作，直到无法继续删除。在完成所有重复项删除操作后，

@@ -1,7 +1,6 @@
 /*
  * @Title: 最长递增子序列
  * @Descripttion: https://leetcode-cn.com/problems/longest-increasing-subsequence/
- * @Author: shaojihao
  * @Question: 
  * 给你一个整数数组 nums，找出其中最长严格递增子序列的长度。
  */

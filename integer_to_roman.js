@@ -1,7 +1,6 @@
 /*
  * @Title: 整数转罗马数字
  * @Descripttion: https://leetcode-cn.com/problems/integer-to-roman/
- * @Author: shaojihao
  * @Question: 
  * 罗马数字包含以下七种字符： I， V， X， L，C，D 和 M，将整数转化为罗马数字
  * 字符    数值

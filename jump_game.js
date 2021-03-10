@@ -1,7 +1,6 @@
 /*
  * @Title: 跳跃游戏
  * @Descripttion: https://leetcode-cn.com/problems/jump-game-ii/
- * @Author: shaojihao
  * @Question: 
  * 给定一个非负整数数组，最初位于数组的第一个位置。
  * 数组中的每个元素代表在该位置可以跳跃的最大长度
