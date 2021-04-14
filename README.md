@@ -20,3 +20,4 @@
 17. [longest_increasing_subsequence.js](longest_increasing_subsequence.js)：[最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 18. [remove_duplicates.js](remove_duplicates.js)：[删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)
 19. [basic_calculator.js](basic_calculator.js])：[基本计算器](https://leetcode-cn.com/problems/basic-calculator/)
+20. [largest_number.js](largest_number.js])：[最大数](https://leetcode-cn.com/problems/largest-number/)
