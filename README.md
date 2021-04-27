@@ -22,3 +22,4 @@
 19. [basic_calculator.js](basic_calculator.js])：[基本计算器](https://leetcode-cn.com/problems/basic-calculator/)
 20. [largest_number.js](largest_number.js])：[最大数](https://leetcode-cn.com/problems/largest-number/)
 21. [package_list.js](package_list.js])：[在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)
+21. [range_sum_of_bst.js](range_sum_of_bst.js])：[二叉搜索的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/)
