@@ -6,7 +6,7 @@
  */
 
 /**
- * @name: basic_calculator
+ * @name basic_calculator
  * @param {string} str
  * @return {number}
  */

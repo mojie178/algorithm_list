@@ -11,7 +11,7 @@
  */
 
 /**
- * @name: convert_z
+ * @name convert_z
  * @param {string} s
  * @param {number} numRows
  * @return {string}

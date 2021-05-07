@@ -6,7 +6,7 @@
  */
 
 /**
- * @name: longest_substring
+ * @name longest_substring
  * @param {string} str
  * @return {number}
  */

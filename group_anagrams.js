@@ -14,7 +14,7 @@
  */
 
 /**
- * @name: group_anagrams
+ * @name group_anagrams
  * @param {string[]} strs
  * @return {string[][]}
  */

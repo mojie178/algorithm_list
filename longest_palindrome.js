@@ -6,7 +6,7 @@
  */
 
 /**
- * @name: longest_substring
+ * @name longest_substring
  * @param {string} s
  * @return {string}
  */
@@ -61,7 +61,7 @@ function longest_substring(s) {
  */
 
 /**
- * @name: longest_substring_two
+ * @name longest_substring_two
  * @msg：中心扩展算法
  * @param {string} s
  * @return {string}
@@ -87,7 +87,7 @@ function longest_substring_two(s) {
 }
 
 /**
- * @name: expand_around_center
+ * @name expand_around_center
  * @msg: 中心拓展方法，返回可拓展最长长度
  * @param {string} s
  * @param {number} left

@@ -7,7 +7,7 @@
  */
 
 /**
- * @name: largest_number
+ * @name largest_number
  * @param {number[]} nums
  * @return {number}
  */

@@ -6,7 +6,7 @@
  */
 
 /**
- * @name: find_median.js
+ * @name find_median.js
  * @param {number[]} nums1
  * @param {number[]} nums2
  * @return {number}
@@ -23,7 +23,7 @@ function find_median(nums1, nums2) {
 }
 
 /**
- * @name: get_kth_element
+ * @name get_kth_element
  * @msg: 获取中位数
  * @param {number[]} nums1
  * @param {number[]} nums2

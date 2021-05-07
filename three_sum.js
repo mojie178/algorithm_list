@@ -7,7 +7,7 @@
  */
 
 /**
- * @name: three_sum
+ * @name three_sum
  * @param {number[]} nums
  * @return {*}
  */

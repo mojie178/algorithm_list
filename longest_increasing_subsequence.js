@@ -6,7 +6,7 @@
  */
 
 /**
- * @name: longest_increasing_subsequence
+ * @name longest_increasing_subsequence
  * @param {number[]} nums
  * @return {number}
  */

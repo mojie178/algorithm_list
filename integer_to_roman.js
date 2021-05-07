@@ -14,7 +14,7 @@
  */
 
 /**
- * @name: integer_to_roman
+ * @name integer_to_roman
  * @param {number} num
  * @return {string}
  */

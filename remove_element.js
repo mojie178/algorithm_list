@@ -8,7 +8,7 @@
  */
 
 /**
- * @name: remove_element_one（双指针）
+ * @name remove_element_one（双指针）
  * @param {number[]} nums
  * @param {number} val
  * @return {number}
@@ -37,7 +37,7 @@ function remove_element_one(nums, val) {
  */
 
 /**
- * @name: remove_element_two（双指针 —— 当要删除的元素很少时）
+ * @name remove_element_two（双指针 —— 当要删除的元素很少时）
  * @param {number[]} nums
  * @param {number} val
  * @return {number}

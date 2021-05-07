@@ -8,7 +8,7 @@
  */
 
 /**
- * @name: remove_duplicates
+ * @name remove_duplicates
  * @param {string} str
  * @return {string}
  */

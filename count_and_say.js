@@ -13,7 +13,7 @@
  */
 
 /**
- * @name: count_and_say
+ * @name count_and_say
  * @param {number} num
  * @return {string}
  */

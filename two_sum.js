@@ -8,7 +8,7 @@
  */
 
 /**
- * @name: two_num
+ * @name two_num
  * @param {number[]} list
  * @param {number} target
  * @return {number[]}

@@ -10,7 +10,7 @@
  */
 
 /**
- * @name: edit_distance
+ * @name edit_distance
  * @param {string} word1
  * @param {string} word2
  * @return {number}

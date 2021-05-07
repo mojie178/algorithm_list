@@ -7,7 +7,7 @@
  */
 
 /**
- * @name: regular_match
+ * @name regular_match
  * @param {string} str
  * @param {string} regx
  * @return {boolean}
@@ -33,7 +33,7 @@ function regular_match(str, regx) {
 }
 
 /**
- * @name: matches
+ * @name matches
  * @description: 用于返回 dp[i - 1][j - 1] 的状态
  * @param {string} str
  * @param {string} regx

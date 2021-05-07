@@ -14,7 +14,7 @@
  */
 
 /**
- * @name: rain_water_one（按行求）
+ * @name rain_water_one（按行求）
  * @param {number[]} heightList
  * @return {number}
  */
@@ -37,7 +37,7 @@ function rain_water_one(heightList) {
 }
 
 /**
- * @name: get_max
+ * @name get_max
  * @description: 获取数组中最大高度
  * @param {number[]} heightList
  * @return {number}
@@ -62,7 +62,7 @@ function get_max(heightList) {
  */
 
 /**
- * @name: rain_water_two（按列求）
+ * @name rain_water_two（按列求）
  * @param {number[]} heightList
  * @return {number}
  */
@@ -93,7 +93,7 @@ function rain_water_two(heightList) {
  */
 
 /**
- * @name: rain_water_three（动态规划）
+ * @name rain_water_three（动态规划）
  * @param {number[]} heightList
  * @return {number}
  */
@@ -128,7 +128,7 @@ function rain_water_three(heightList) {
  */
 
 /**
- * @name: rain_water_four（双指针）
+ * @name rain_water_four（双指针）
  * @param {number[]} heightList
  * @return {number}
  */
@@ -179,7 +179,7 @@ function rain_water_four(heightList) {
  */
 
 /**
- * @name: rain_water_five（栈）
+ * @name rain_water_five（栈）
  * @param {number[]} heightList
  * @return {number}
  */

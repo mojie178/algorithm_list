@@ -9,7 +9,7 @@
  */
 
 /**
- * @name: valid_parentheses
+ * @name valid_parentheses
  * @param {str} str
  * @return {boolean}
  */

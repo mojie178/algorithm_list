@@ -8,7 +8,7 @@
  */
 
 /**
- * @name: most_water
+ * @name most_water
  * @param {number[]} list
  * @return {number}
  */

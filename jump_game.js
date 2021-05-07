@@ -8,7 +8,7 @@
  */
 
 /**
- * @name: jump_game
+ * @name jump_game
  * @param {number[]} nums
  * @return {number}
  */
